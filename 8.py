@@ -1,0 +1,3 @@
+import weg
+
+weg.tar()
