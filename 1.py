@@ -1,6 +1,6 @@
-from numpy import sqrt
+import math
 
 num=int(input("Enter the number:"))
-Srt= sqrt(num)
+Srt= math.sqrt(num)
 
 print("The square root of", num, "is", Srt)
